@@ -487,7 +487,7 @@
 
 
   //var fName = get_fName(txt_File_Sim);//alert(fName);
-    var fName = get_fName('N/prog/Calculator/Calculator.js');//alert(fName);
+    var fName = get_fName('N/Prog/Calculator/Calculator.js');//alert(fName);
   //var fName = "N/prog/Calculator/Calculator.js";   //get_fName(txt_File_Sim);//alert(fName);
 
 /*
