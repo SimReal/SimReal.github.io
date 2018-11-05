@@ -15,6 +15,6 @@ Når du har lastet ned zip-filen og pakket den ut kan du følg denne oppskriften
 - Oppdater navnene på filene i html filen slik at de nye og ikke de gamle filene blir inkludert.
 - Gjør endringer i filene slik at simuleringen din blir slik du vil. 
 
-Dersom du vet hvordan du bruker, eller lærer deg å bruke GitHUB på en litt mer avansert måte, kan du også bidra med simuleringer som andre kan bruke. Dette gratis nettkurset er en måte å lære seg GitHUB på: [https://classroom.udacity.com/courses/ud775](https://classroom.udacity.com/courses/ud775)
+Dersom du vet hvordan du bruker, eller lærer deg å bruke GitHUB på en litt mer avansert måte, kan du også bidra med simuleringer som andre kan bruke. Dette gratis nettkurset er en måte å lære seg GitHUB på: [https://classroom.udacity.com/courses/ud775](https://classroom.udacity.com/courses/ud775) Den første filmen i nettkurset kan du se ved å følge denne lenken, dersom du vil se om det er noe for deg før du melder deg på: [https://www.youtube.com/watch?v=Ytux4IOAR_s](https://www.youtube.com/watch?v=Ytux4IOAR_s)
 
 
