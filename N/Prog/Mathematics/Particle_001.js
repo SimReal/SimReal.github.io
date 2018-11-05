@@ -133,6 +133,7 @@ function Particle_001 () {
   
   function move_particle(t,n) {
     yParticle = A*Math.sin(speed*t);
+    xParticle = A*Math.cos(speed*t);
     draw_particle();
   }
   //-------------------------------------------------------------------------------------------------- get_info ---//
