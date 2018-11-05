@@ -1,0 +1,59 @@
+
+/*=========================================================================================================== CDiv ===*/
+
+  var div_000    = make_div    (body,'idDiv_000','none','absolute',8,98);
+  var div_001    = make_div    (body,'idDiv_001','none','absolute',2,27);
+  var div_002    = make_div    (body,'idDiv_002','none','absolute',2,27);
+  var div_003    = make_div    (body,'idDiv_003','none','absolute',2,27);
+  var div_004    = make_div    (body,'idDiv_004','none','absolute',2,27);
+  var div_005    = make_div    (body,'idDiv_005','none','absolute',2,27);
+
+  var canvas_000 = make_canvas (div_000,'idCanvas_000','absolute',849,500);
+  var canvas_001 = make_canvas (div_001,'idCanvas_001','absolute',615,445);
+  var canvas_002 = make_canvas (div_002,'idCanvas_002','absolute',845,445);
+
+  var iframe_000 = make_iframe (div_005,'idIFrame_000',224,445);
+
+
+  /*-------------------------------------------------------------------------------------------------- make_div ---*/
+
+  function make_div(parent,idDiv,bShow,pos,L,T) {
+    var obj = document.createElement('div');
+
+    obj   .id             = idDiv;
+    obj   .style.display  = bShow;
+    obj   .style.position = pos  ;
+    obj   .style.left     = L    ;
+    obj   .style.top      = T    ;
+    parent.appendChild(obj)      ;
+    return obj                   ;
+  }
+
+  /*----------------------------------------------------------------------------------------------- make_canvas ---*/
+
+  function make_canvas(parent,idCanvas,pos,W,H) {
+    var obj = document.createElement('canvas');
+
+    obj   .id             = idCanvas;
+    obj   .style.position = pos  ;
+    obj   .style.width    = W    ;
+    obj   .style.height   = H    ;
+    obj   .style.border   = '1px solid #000000';
+    parent.appendChild(obj)      ;
+    return obj                   ;
+  }
+  /*----------------------------------------------------------------------------------------------- make_iframe ---*/
+
+  function make_iframe(parent,idIframe,W,H) {
+    var obj = document.createElement('iframe');
+
+    obj   .id             = idIframe;
+    obj   .src            = ''   ;
+    obj   .style.width    = W    ;
+    obj   .style.height   = H    ;
+    obj   .style.border   = '1px solid #000000';
+    parent.appendChild(obj)      ;
+    return obj                   ;
+  }
+  /*---------------------------------------------------------------------------------------------------------------*/
+/*=================================================================================================================*/
