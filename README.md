@@ -3,7 +3,7 @@
 
 Denne siden ble opprettet på MatRIC-konferansen på Gardermoen 5.-6. november 2018. Her kan du laste ned simuleringer og tilpasse de til eget bruk. 
 
-Du finner alle simuleringene på [simreal.uia.no](https://simreal.uia.no). Kildekoden til disse vil bli gjort tilgjengelige her etter hvert. Foreløpig kan du eksperimentere med denne simuleringen: [https://simreal.github.io/SimReal_Particle.html](https://simreal.github.io/SimReal_Particle.html).
+Du finner alle simuleringene på [simreal.uia.no](http://simreal.uia.no). Kildekoden til disse vil bli gjort tilgjengelige her etter hvert. Foreløpig kan du eksperimentere med denne simuleringen: [https://simreal.github.io/SimReal_Particle.html](https://simreal.github.io/SimReal_Particle.html).
 
 Last ned simuleringen over ved å gå inn på [https://github.com/SimReal/SimReal.github.io](https://github.com/SimReal/SimReal.github.io) og laste ned en zip-fil ved å trykke på "Clone or download->Download zip". 
 
